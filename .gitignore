@@ -8,6 +8,9 @@ dist/
 build/
 *.egg-info/
 
+# Включаем EXE-файл в репозиторий
+!dist/FileTransfer.exe
+
 # PyInstaller
 *.manifest
 *.spec
