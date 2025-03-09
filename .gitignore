@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Environments
+venv/
+env/
+.env
+
+# Uploads directory
+uploads/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log 
